@@ -8,3 +8,4 @@
 3. `node hex-color/server/server.js` to run the server
 4. `cd hex-color/client/hex-color && npm start` to run the front-end
 5. Enjoy!
+6. Close the server and front-end using ctrl+c
